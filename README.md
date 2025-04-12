@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Shounakjaipurkar/shounakjaipurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Electronics and Computer Engineering student at Sanjivani College of Engineering.  
+I love working on Python-based projects
 
-Here are some ideas to get you started:
+🛠️ Skills:  
+- Python, C  
+- HTML, CSS
+- Data structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+#🔭 I’m currently working on:  
+- Python mini-projects  
+#🌱 I’m currently learning:
+- Advance Python
+-  Data Structures and Algorithms (DSA)
+#  👯 I’m looking to collaborate on:
+- IoT and automation projects
+- Open-source Python tools
+
+ 
+#🤔 I’m looking for help with:
+-  Improving my Git and GitHub workflow
+- Writing cleaner, optimized Python code
+#💬 Ask me about: 
+- Python basics
+- Microcontrollers like ESP32 & Arduino
+- Getting started with IoT
+  
+#📫 How to reach me:
+- Email: shounakjaipurkar867@gmail.com
+- LinkedIn: [linkedin.com/in/shounak-jaipurkar](https://www.linkedin.com/in/shounak-jaipurkar/)
+#😄 Pronouns:
+  -He/him
+- ⚡ Fun fact:
+- None😢
 -->
