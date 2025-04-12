@@ -10,16 +10,15 @@ I love working on Python-based projects
 
 
 
-#🔭 I’m currently working on:  
+#🔭I’m currently working on:  
 - Python mini-projects  
-#🌱 I’m currently learning:
+#🌱I’m currently learning:
 - Advance Python
 -  Data Structures and Algorithms (DSA)
-#  👯 I’m looking to collaborate on:
+#👯I’m looking to collaborate on:
 - IoT and automation projects
 - Open-source Python tools
-
- 
+- 
 #🤔 I’m looking for help with:
 -  Improving my Git and GitHub workflow
 - Writing cleaner, optimized Python code
@@ -31,8 +30,9 @@ I love working on Python-based projects
 #📫 How to reach me:
 - Email: shounakjaipurkar867@gmail.com
 - LinkedIn: [linkedin.com/in/shounak-jaipurkar](https://www.linkedin.com/in/shounak-jaipurkar/)
+  
 #😄 Pronouns:
-  -He/him
+-He/him
 - ⚡ Fun fact:
 - None😢
 -->
