@@ -34,5 +34,5 @@ I love working on Python-based projects
 #😄 Pronouns:
 -He/him
 - ⚡ Fun fact:
-- i made a water leakage detection system without water😢
+- I have created a water leakage detection system without water😢
 -->
