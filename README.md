@@ -22,7 +22,7 @@ I'm a B.Tech IT student passionate about analyzing data, building intelligent sy
 ## 🌱 Currently Learning
 
 - Advanced SQL and Excel
-- Power BI dashboards and data storytelling
+- Power BI dashboards
 - Embedded systems and sensor integration
 - Python for data analysis
 
